@@ -21,7 +21,8 @@ La taille du groupe peut varier entre 4 et 7 personnes.
 L'atelier se mène avec un paperboard et des post-it.
 
 ### Du temps
-De 30 minutes à une heure selon la taille du groupe et ses initiatives. L'animateur peut arrêter la première partie quand il estime que le nombre d'acteurs est suffisant.
+De 30 minutes à une heure selon la taille du groupe et ses initiatives.
+L'animateur peut arrêter la première partie quand il estime que le nombre d'acteurs est suffisant.
 
 ## Déroulement
 
